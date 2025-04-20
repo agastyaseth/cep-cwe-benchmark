@@ -1,0 +1,19 @@
+{
+  "timestamp": "20250417_012800",
+  "models_tested": [
+    "llama3.1-8b",
+    "gemma3-12b"
+  ],
+  "summary": {
+    "llama3.1-8b": {
+      "accuracy": 0,
+      "correct_detections": 0,
+      "total_evaluated_samples": 0
+    },
+    "gemma3-12b": {
+      "accuracy": 0,
+      "correct_detections": 0,
+      "total_evaluated_samples": 0
+    }
+  }
+}

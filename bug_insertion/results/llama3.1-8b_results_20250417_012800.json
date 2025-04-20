@@ -1,0 +1,9 @@
+{
+  "model_id": "llama3.1-8b",
+  "error": "Failed during vLLM processing: 'cwe_list'",
+  "detailed_results": [],
+  "accuracy": 0,
+  "correct_detections": 0,
+  "total_evaluated_samples": 0,
+  "total_processed_items": 0
+}

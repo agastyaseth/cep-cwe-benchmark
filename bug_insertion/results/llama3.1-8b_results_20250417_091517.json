@@ -1,0 +1,9 @@
+{
+  "model_id": "llama3.1-8b",
+  "error": "Failed during vLLM processing: The decoder prompt (length 19800) is longer than the maximum model length of 19800. Make sure that `max_model_len` is no smaller than the number of text tokens.",
+  "detailed_results": [],
+  "accuracy": 0,
+  "correct_detections": 0,
+  "total_evaluated_samples": 0,
+  "total_processed_items": 0
+}

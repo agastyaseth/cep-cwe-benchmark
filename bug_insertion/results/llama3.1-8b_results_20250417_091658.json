@@ -1,0 +1,269 @@
+{
+  "model_id": "llama3.1-8b",
+  "api_model_name": "meta-llama/Llama-3.1-8B",
+  "timestamp": "20250417_091658",
+  "accuracy": 0.0,
+  "correct_detections": 0,
+  "total_evaluated_samples": 43,
+  "total_processed_items": 43,
+  "detailed_results": [
+    {
+      "bug_id": 2,
+      "ground_truth_cwe": "CWE-226",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 1,
+      "ground_truth_cwe": "CWE-203",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 4,
+      "ground_truth_cwe": "CWE-440",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 3,
+      "ground_truth_cwe": "CWE-325",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 33,
+      "ground_truth_cwe": "CWE-226",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 34,
+      "ground_truth_cwe": "CWE-319",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 35,
+      "ground_truth_cwe": "CWE-325",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 32,
+      "ground_truth_cwe": "CWE-203",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 31,
+      "ground_truth_cwe": "CWE-440",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 26,
+      "ground_truth_cwe": "CWE-203",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 28,
+      "ground_truth_cwe": "CWE-276",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 27,
+      "ground_truth_cwe": "CWE-226",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 29,
+      "ground_truth_cwe": "CWE-319",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 30,
+      "ground_truth_cwe": "CWE-325",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 21,
+      "ground_truth_cwe": "CWE-276",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 22,
+      "ground_truth_cwe": "CWE-319",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 19,
+      "ground_truth_cwe": "CWE-203",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 23,
+      "ground_truth_cwe": "CWE-325",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 25,
+      "ground_truth_cwe": "CWE-441",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 20,
+      "ground_truth_cwe": "CWE-226",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 15,
+      "ground_truth_cwe": "CWE-1191",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 16,
+      "ground_truth_cwe": "CWE-1240",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 18,
+      "ground_truth_cwe": "CWE-1272",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 17,
+      "ground_truth_cwe": "CWE-1262",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 14,
+      "ground_truth_cwe": "CWE-203",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 1,
+      "ground_truth_cwe": "CWE-203",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 1,
+      "ground_truth_cwe": "CWE-203",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 5,
+      "ground_truth_cwe": "CWE-203",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 2,
+      "ground_truth_cwe": "CWE-226",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 6,
+      "ground_truth_cwe": "CWE-226",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 3,
+      "ground_truth_cwe": "CWE-325",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 7,
+      "ground_truth_cwe": "CWE-325",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 4,
+      "ground_truth_cwe": "CWE-440",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 7,
+      "ground_truth_cwe": "CWE-325",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 12,
+      "ground_truth_cwe": "CWE-1272",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 11,
+      "ground_truth_cwe": "CWE-1244",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 10,
+      "ground_truth_cwe": "CWE-1240",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 6,
+      "ground_truth_cwe": "CWE-226",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 5,
+      "ground_truth_cwe": "CWE-203",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 8,
+      "ground_truth_cwe": "CWE-440",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 7,
+      "ground_truth_cwe": "CWE-325",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 9,
+      "ground_truth_cwe": "CWE-1191",
+      "cwe_detected": false,
+      "response": ""
+    },
+    {
+      "bug_id": 13,
+      "ground_truth_cwe": "CWE-1300",
+      "cwe_detected": false,
+      "response": ""
+    }
+  ]
+}
