@@ -9,7 +9,7 @@ import config # Import config for API model names
 # --- OpenAI Client ---
 def query_gpt4o(fully_formatted_prompt):
     """Query the GPT-4o API with the fully formatted prompt."""
-    api_key = "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"
+    api_key = "***"
 
     try:
         client = openai.OpenAI(api_key=api_key)

@@ -8,7 +8,7 @@ from google.genai import types
 # --- Configuration ---
 MANUAL_DATASET_PATH = '/home/aseth7/hwsec/bug_insertion/data/buggy_rtl_dataset.json' 
 SYNTHETIC_DATASET_PATH = '/home/aseth7/hwsec/bug_insertion/data/synthetic_sft_dataset_structured.jsonl' 
-GEMINI_API_KEY = 'AIzaSyBvmorHk-yjlZtWoVSWrzdMQmDCMXRn6TI'
+GEMINI_API_KEY = '***'
 
 MODEL_NAME = 'gemini-2.0-flash-thinking-exp-01-21'
 MAX_RETRIES = 3
